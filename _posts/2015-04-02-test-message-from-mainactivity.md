@@ -1,12 +1,12 @@
 ---
   description: "test message from MainActivity"
-  isBasedOnUrl: "urn:uuid:1cd12a86-5bda-4780-92ab-8679bfd15155"
+  isBasedOnUrl: "urn:uuid:c72b25b7-2e09-48f7-8bad-053186b65532"
   author: []
   publisher: 
     domain: ""
     name: ""
-  datePublished: "2015-04-02T20:57:35.759Z"
-  dateModified: "2015-04-02T20:57:35.759Z"
+  datePublished: "2015-04-02T22:05:39.708Z"
+  dateModified: "2015-04-02T22:05:45.339Z"
   sourcePath: "_posts/2015-04-02-test-message-from-mainactivity.md"
   published: true
   _context: "http://schema.org"

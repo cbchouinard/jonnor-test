@@ -6,7 +6,7 @@
     domain: ""
     name: ""
   datePublished: "2015-04-02T20:57:35.761Z"
-  dateModified: "2015-04-02T20:57:35.761Z"
+  dateModified: "2015-04-02T22:05:45.375Z"
   sourcePath: "_posts/2015-04-02-nothing-before.md"
   published: true
   _context: "http://schema.org"

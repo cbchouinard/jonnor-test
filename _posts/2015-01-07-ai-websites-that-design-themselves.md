@@ -23,7 +23,7 @@
   isBasedOnUrl: "https://thegrid.io/"
   title: "AI Websites That Design Themselves"
   datePublished: "2015-01-07T16:08:59.212Z"
-  dateModified: "2015-04-02T22:08:22.592Z"
+  dateModified: "2015-04-02T22:12:59.342Z"
   sourcePath: "_posts/2015-01-07-ai-websites-that-design-themselves.md"
   published: true
   _context: "http://schema.org"

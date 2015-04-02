@@ -20,10 +20,10 @@
   description: "This is not another do-it-yourself website builder. The Grid harnesses the power of artificial intelligence to take everything you throw at it - videos, images, text, urls and more - and automatically shape them into a custom website unique to you. As your needs grow, it evolves with you, effortlessly adapting to your needs."
   inLanguage: "English"
   app_links: []
-  isBasedOnUrl: "http://thegrid.io"
+  isBasedOnUrl: "https://thegrid.io/"
   title: "AI Websites That Design Themselves"
-  datePublished: "2015-01-07T16:09:21.815Z"
-  dateModified: "2015-04-02T22:08:22.360Z"
+  datePublished: "2015-01-07T16:08:59.212Z"
+  dateModified: "2015-04-02T22:08:22.592Z"
   sourcePath: "_posts/2015-01-07-ai-websites-that-design-themselves.md"
   published: true
   _context: "http://schema.org"

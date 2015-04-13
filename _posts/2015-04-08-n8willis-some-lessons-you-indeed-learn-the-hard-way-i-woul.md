@@ -42,7 +42,7 @@
   app_links: []
   isBasedOnUrl: "https://twitter.com/andreasn1/status/583756857107353600"
   datePublished: "2015-04-08T15:08:29.862Z"
-  dateModified: "2015-04-10T19:01:09.629Z"
+  dateModified: "2015-04-13T16:57:45.824Z"
   sourcePath: "_posts/2015-04-08-n8willis-some-lessons-you-indeed-learn-the-hard-way-i-woul.md"
   published: true
   _type: "Comment"

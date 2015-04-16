@@ -1,4 +1,3 @@
 purposes:
   - shares
-theme: 'flowerflip'
-style: 'https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/design-systems/helloworld/master/helloworld.js'
+layout_spectrum: 0.8
